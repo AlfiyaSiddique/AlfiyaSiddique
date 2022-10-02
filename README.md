@@ -5,4 +5,5 @@
 
 <div id = "about" align = "center" >
    <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"> 
+  <p>Development in Progress</p>
  <div>

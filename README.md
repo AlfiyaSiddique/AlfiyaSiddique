@@ -2,7 +2,7 @@
   <h2>Hi There! <img src= "https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width = "10%"/><br>
 </div>
 
-   <img align = "right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+   <img align = "right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400px">
  
  <h1 >I'm Alfiya Siddique</h1>
 <h3>A passionate Web Developer from India</h3>

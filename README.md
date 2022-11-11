@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Javascript, Nodejs , Database (MongoDB)**
 
-- 📫 How to reach me **alfiyasiddique1708@gmail.com**
+- 📫 Contact me through **alfiyasiddique1708@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

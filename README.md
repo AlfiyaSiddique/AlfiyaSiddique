@@ -1,13 +1,14 @@
 <div id = "Head" align = "center">
-  <h2 display="inline">Hi There!</h2> <img src= "https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width = "10%"/><br>
+  <h2>Hi There! <img src= "https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width = "10%"/></h2>
+  <br/>
 </div>
 
-   <img align = "right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400px">
+   <img align = "right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400px"/>
  
- <h1 >I'm Alfiya Siddique</h1>
+ <h1>I'm Alfiya Siddique</h1>
 <h3>A passionate Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfiyasiddique&label=Profile%20views&color=0e75b6&style=flat" alt="alfiyasiddique" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfiyasiddique&label=Profile%20views&color=0e75b6&style=flat" alt="alfiyasiddique"> </p>
 
 - 🔭 I’m currently working on **Backend**
 

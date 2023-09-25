@@ -1,5 +1,5 @@
 <div id = "Head" align = "center">
-  <h2>Hi There! <img src= "https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width = "10%"/><br>
+  <h2 display="inline">Hi There!</h2> <img src= "https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width = "10%"/><br>
 </div>
 
    <img align = "right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400px">

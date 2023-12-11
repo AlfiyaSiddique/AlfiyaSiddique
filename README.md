@@ -25,6 +25,14 @@
 
 - 📫 Contact me through **alfiyasiddique1708@gmail.com**
 
+## Projects
+
+-  FitTrack - [Link](https://exercise-tracker-dp6p.onrender.com/) [Repo](https://github.com/AlfiyaSiddique/exercise-tracker)
+
+- URL Shortener - [Link](https://urlshortener.alfiyasiddique.repl.co/) [Repo](https://github.com/AlfiyaSiddique/Internet-Shortcuts)
+
+- Provident Fund Manager - [Link](https://chipper-bombolone-8ca005.netlify.app/) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/a_l_f_i_y_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_l_f_i_y_a" height="30" width="40" /></a>

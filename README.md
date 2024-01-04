@@ -27,11 +27,12 @@
 
 ## Projects
 
--  FitTrack - [Link](https://exercise-tracker-dp6p.onrender.com/) [Repo](https://github.com/AlfiyaSiddique/exercise-tracker)
+-  **FitTrack** - [Link](https://exercise-tracker-dp6p.onrender.com/) [Repo](https://github.com/AlfiyaSiddique/exercise-tracker)
+-  **TatyTrails** -  [Link](https://delightful-daifuku-a9f6ea.netlify.app/) [Repo](https://github.com/AlfiyaSiddique/TastyTrails)
 
-- URL Shortener - [Link](https://urlshortener.alfiyasiddique.repl.co/) [Repo](https://github.com/AlfiyaSiddique/Internet-Shortcuts)
+- **URL Shortener** - [Link](https://urlshortener.alfiyasiddique.repl.co/) [Repo](https://github.com/AlfiyaSiddique/Internet-Shortcuts)
 
-- Provident Fund Manager - [Link](https://chipper-bombolone-8ca005.netlify.app/) 
+- **Provident Fund Manager** - [Link](https://chipper-bombolone-8ca005.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

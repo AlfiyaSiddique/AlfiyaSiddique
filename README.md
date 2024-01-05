@@ -29,7 +29,7 @@
 
 -  **FitTrack** - [Link](https://exercise-tracker-dp6p.onrender.com/) [Repo](https://github.com/AlfiyaSiddique/exercise-tracker)
 -  **TatyTrails** -  [Link](https://delightful-daifuku-a9f6ea.netlify.app/) [Repo](https://github.com/AlfiyaSiddique/TastyTrails)
-
+-  **Clarity** -     [Link](https://heroic-paletas-b004a0.netlify.app/signup) [Repo](https://github.com/AlfiyaSiddique/Clarity)
 - **URL Shortener** - [Link](https://urlshortener.alfiyasiddique.repl.co/) [Repo](https://github.com/AlfiyaSiddique/Internet-Shortcuts)
 
 - **Provident Fund Manager** - [Link](https://chipper-bombolone-8ca005.netlify.app/)

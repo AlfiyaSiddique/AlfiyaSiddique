@@ -11,13 +11,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfiyasiddique&label=Profile%20views&color=0e75b6&style=flat" alt="alfiyasiddique"> </p>
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS & Cloud**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **Open source Contribution**
+- 🤝 I’m looking for help with **Learning Cloud Skills like AWS and Micro-services**
 
 - 📝 I write articles on [https://medium.com/@alfiyasiddique1708](https://medium.com/@alfiyasiddique1708)
 

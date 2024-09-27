@@ -21,7 +21,7 @@
 
 - 📝 I write articles on [https://medium.com/@alfiyasiddique1708](https://medium.com/@alfiyasiddique1708)
 
-- 💬 Ask me about **Javascript, Nodejs , Database (MongoDB)**
+- 💬 Ask me about **Javascript, Nodejs, Database. API'S, Python**
 
 - 📫 Contact me through **alfiyasiddique1708@gmail.com**
 

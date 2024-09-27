@@ -21,7 +21,9 @@
 
 - 📝 I write articles on [https://medium.com/@alfiyasiddique1708](https://medium.com/@alfiyasiddique1708)
 
-- 💬 Ask me about **Javascript, Nodejs, Database. API'S, Python**
+- 💬 Ask me about **Javascript, Nodejs, Database, API'S, Python**
+
+- 🗣️ Let's talk about Technology, Environment, Psychology, Cosmology, and Books
 
 - 📫 Contact me through **alfiyasiddique1708@gmail.com**
 
